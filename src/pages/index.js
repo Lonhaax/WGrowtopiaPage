@@ -77,7 +77,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Growtopia Private Server</title>
+        <title>GTBL</title>
       </Head>
 
       {/* Background */}
@@ -109,7 +109,7 @@ export default function Home() {
             transition={{ duration: 1.2, delay: 0.2 }}
           >
             <PlayCircle className="w-6 h-6 md:w-8 md:h-8" />
-            <a href='https://www.youtube.com/watch?v=ZfZnWkq-4t8' className="text-sm md:text-lg">Watch Trailer</a>
+            <a href='https://www.youtube.com/watch?v=MQbYKE8KBsQ' className="text-sm md:text-lg">Watch Trailer</a>
           </motion.button>
         </div>
       </div>
@@ -141,7 +141,7 @@ export default function Home() {
               variants={itemVariants}
               className="text-center max-w-3xl mx-auto text-lg leading-relaxed"
             >
-              Growtopia Private Server offers a unique and customizable gaming experience where you can create your own virtual world. Unlike public servers, private servers allow you to control the rules, economy, and overall atmosphere of the game.
+              GTBL offers a seamless and fun experience playing Growtopia, with so many different things to normal Growtopia.
             </motion.p>
           </div>
         </motion.section>
@@ -203,10 +203,10 @@ export default function Home() {
                 <a href="https://twitter.com/YoruAkio" className="text-gray-300 hover:text-gray-200">
                   <FaTwitter />
                 </a>
-                <a href="https://youtube.com/@YoruAkio" className="text-gray-300 hover:text-gray-200">
+                <a href="https://youtube.com/@lonhax780" className="text-gray-300 hover:text-gray-200">
                   <FaYoutube />
                 </a>
-                <a href="https://instagram.com/venturaps" className="text-gray-300 hover:text-gray-200">
+                <a href="https://instagram.com/lonhax" className="text-gray-300 hover:text-gray-200">
                   <FaTelegram />
                 </a>
               </div>
