@@ -82,7 +82,7 @@ export default function Home() {
 
       {/* Background */}
       <div
-        style={{ backgroundImage: 'url(/gtps-bg.png)', backgroundSize: 'cover' }}
+        style={{ backgroundImage: 'url(/gtblbg.jpg)', backgroundSize: 'cover' }}
         className="h-screen w-full flex flex-col justify-between text-white bg-cover relative"
       >
         <div className="absolute inset-0 bg-gray-900 opacity-70"></div>
